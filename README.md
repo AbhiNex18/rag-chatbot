@@ -2,8 +2,6 @@
 
 An intelligent customer support chatbot built using **LangChain, FAISS, and Streamlit**. It combines Retrieval-Augmented Generation (RAG) over a Markdown knowledge base with tool execution (such as mock order lookup) and confidence-based fallback routing.
 
-> **Project attribution:** This repository is based on and extends the original project: [varmaleena/rag-chatbot](https://github.com/varmaleena/rag-chatbot). Refer to the original repository for its source and applicable license.
-
 ---
 
 ## Key Features
