@@ -1,0 +1,113 @@
+{
+  "ORD-1001": {
+    "order_id": "ORD-1001",
+    "customer_name": "Alice Smith",
+    "status": "delivered",
+    "eta": "2026-11-10",
+    "items": [
+      {"sku": "SKU-BAG-01", "name": "Canvas Tote Bag", "quantity": 1, "price": 45.00}
+    ],
+    "shipping_address": "123 Main St, New York, NY 10001",
+    "tracking_number": "1Z9999999999999991"
+  },
+  "ORD-1002": {
+    "order_id": "ORD-1002",
+    "customer_name": "Bob Johnson",
+    "status": "shipped",
+    "eta": "2026-11-21",
+    "items": [
+      {"sku": "SKU-SHOE-42", "name": "Running Shoes - Size 10", "quantity": 1, "price": 120.00},
+      {"sku": "SKU-SOCK-03", "name": "Athletic Socks 3-Pack", "quantity": 2, "price": 15.00}
+    ],
+    "shipping_address": "456 Oak Ave, Austin, TX 78701",
+    "tracking_number": "1Z9999999999999992"
+  },
+  "ORD-1003": {
+    "order_id": "ORD-1003",
+    "customer_name": "Charlie Davis",
+    "status": "processing",
+    "eta": "2026-11-25",
+    "items": [
+      {"sku": "SKU-JKT-08", "name": "Waterproof Windbreaker - Medium", "quantity": 1, "price": 95.00}
+    ],
+    "shipping_address": "789 Pine Rd, Seattle, WA 98101",
+    "tracking_number": "Pending"
+  },
+  "ORD-1004": {
+    "order_id": "ORD-1004",
+    "customer_name": "Diana Prince",
+    "status": "cancelled",
+    "eta": "N/A",
+    "items": [
+      {"sku": "SKU-WATCH-02", "name": "Minimalist Analog Watch", "quantity": 1, "price": 150.00}
+    ],
+    "shipping_address": "101 Wonder Blvd, Metropolis, IL 62960",
+    "tracking_number": "Cancelled"
+  },
+  "ORD-1005": {
+    "order_id": "ORD-1005",
+    "customer_name": "Evan Wright",
+    "status": "out_for_delivery",
+    "eta": "2026-11-17",
+    "items": [
+      {"sku": "SKU-HAT-05", "name": "Wool Beanie Black", "quantity": 2, "price": 25.00}
+    ],
+    "shipping_address": "202 Birch St, Denver, CO 80202",
+    "tracking_number": "1Z9999999999999995"
+  },
+  "ORD-1006": {
+    "order_id": "ORD-1006",
+    "customer_name": "Fiona Gallagher",
+    "status": "refunded",
+    "eta": "N/A",
+    "items": [
+      {"sku": "SKU-DENIM-30", "name": "Slim Fit Jeans - 32x32", "quantity": 1, "price": 78.00}
+    ],
+    "shipping_address": "303 Elm St, Chicago, IL 60601",
+    "tracking_number": "1Z9999999999999996"
+  },
+  "ORD-1007": {
+    "order_id": "ORD-1007",
+    "customer_name": "George Clark",
+    "status": "shipped",
+    "eta": "2026-11-20",
+    "items": [
+      {"sku": "SKU-SUN-01", "name": "Polarized Sunglasses", "quantity": 1, "price": 60.00}
+    ],
+    "shipping_address": "404 Ocean Ave, Miami, FL 33139",
+    "tracking_number": "1Z9999999999999997"
+  },
+  "ORD-1008": {
+    "order_id": "ORD-1008",
+    "customer_name": "Hannah Abbott",
+    "status": "delivered",
+    "eta": "2026-11-08",
+    "items": [
+      {"sku": "SKU-HOOD-M", "name": "Fleece Hoodie - Grey Large", "quantity": 1, "price": 65.00}
+    ],
+    "shipping_address": "505 Maple St, Boston, MA 02108",
+    "tracking_number": "1Z9999999999999998"
+  },
+  "ORD-1009": {
+    "order_id": "ORD-1009",
+    "customer_name": "Ian Malcolm",
+    "status": "processing",
+    "eta": "2026-11-28",
+    "items": [
+      {"sku": "SKU-BOOT-11", "name": "Leather Hiking Boots - Size 11", "quantity": 1, "price": 180.00}
+    ],
+    "shipping_address": "606 Isla Rd, San Diego, CA 92101",
+    "tracking_number": "Pending"
+  },
+  "ORD-1010": {
+    "order_id": "ORD-1010",
+    "customer_name": "Julia Roberts",
+    "status": "shipped",
+    "eta": "2026-11-22",
+    "items": [
+      {"sku": "SKU-BELT-01", "name": "Classic Brown Leather Belt", "quantity": 1, "price": 35.00}
+    ],
+    "shipping_address": "707 Sunset Blvd, Los Angeles, CA 90028",
+    "tracking_number": "1Z9999999999999910"
+  }
+}
